@@ -16,3 +16,5 @@
 
 - https://github.com/cs01/gdbgui
 - https://rada.re/r/
+- https://ghidra-sre.org/
+- https://alternativeto.net/software/ollydbg/?platform=linux (else)
