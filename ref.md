@@ -22,3 +22,7 @@
 
 ### To use GBDK
 - https://github.com/gheja/gbdk
+-------------------------------------
+
+- https://github.com/gingemonster/GamingMonstersGameBoySampleCode
+- https://github.com/Zal0/GBSoundDemo
