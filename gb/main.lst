@@ -1,9 +1,9 @@
                               1 ;--------------------------------------------------------
                               2 ; File Created by SDCC : FreeWare ANSI-C Compiler
-                              3 ; Version 2.3.1 Wed Dec  4 23:27:38 2019
+                              3 ; Version 2.3.1 Fri Dec  6 15:16:25 2019
                               4 
                               5 ;--------------------------------------------------------
-                              6 	.module lcc152500
+                              6 	.module lcc134160
                               7 	
                               8 ;--------------------------------------------------------
                               9 ; Public variables in this module
@@ -2263,7 +2263,7 @@
                            2192 ;	genPlusIncr
    0600 23                 2193 	inc	hl
                            2194 ;	genAssign (pointer)
-   0601 36 90              2195 	ld	(hl),#0x90
+   0601 36 A0              2195 	ld	(hl),#0xA0
                            2196 ;	genGoto
    0603 C3 1B 06           2197 	jp	00111$
                            2198 ;	genLabel

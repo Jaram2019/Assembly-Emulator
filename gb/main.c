@@ -402,7 +402,7 @@ void setuparrow(){
     }
     else if(arrow.pos == 2){
         arrow.x = 80;
-        arrow.y = 144;
+        arrow.y = 160;
     }
     else if(arrow.pos == 3){
         arrow.x = 248;
